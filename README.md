@@ -1,1 +1,1 @@
-# social_network
+социальная сеть реализованная на Java + SpringBoot
